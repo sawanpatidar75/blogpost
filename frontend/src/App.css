@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  background-color: #282c34;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+form div {
+  margin: 1rem 0;
+}
+
+button {
+  margin: 0.5rem;
+}
